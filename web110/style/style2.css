@@ -1,0 +1,35 @@
+body
+{
+  /* you better change this stuff */
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: monospace;
+  color: aqua;
+  background-color: grey;
+  font-size: 150%;
+}
+h1
+{
+	text-align: center;
+  font-size: 200%;
+}
+figure
+{
+	text-align: center;
+	font-style: italic;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+a {
+ color: hotpink;	
+}
+footer{
+	text-align: center;
+}
